@@ -1,9 +1,9 @@
 ### Hi there 👋
 👨‍💻 **Who we are**  
-> A couple of dreamers crafting little apps with big hearts.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳&nbsp; A couple of dreamers crafting little apps with big hearts.
 
 👩‍💻 **Curious?**  
-> Peek into our app to find out more.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳&nbsp; Peek into our app to find out more.
 
 ☕️ **Fun fact**  
-> Our productivity runs on a cup of cappuccino every morning. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳&nbsp; Our productivity runs on a cup of cappuccino every morning. 
