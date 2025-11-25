@@ -1,6 +1,6 @@
 ### Hi there 👋
 👨‍💻 **Who we are**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳&nbsp; A couple of dreamers crafting little apps with big hearts.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳&nbsp; A slightly chaotic couple crafting little apps with big hearts.
 
 👩‍💻 **Curious?**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳&nbsp; Peek into our app to find out more.
